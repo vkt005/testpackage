@@ -1,0 +1,12 @@
+{
+    "name": "digvijay/testpackage",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vivek Tripathi",
+            "email": "vivek.tripathi@lalalends.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
