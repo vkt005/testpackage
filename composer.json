@@ -1,5 +1,6 @@
 {
-    "name": "digvijay/testpackage",
+    "name": "vkt005/testpackage",
+    "description": "testpackage",
     "type": "library",
     "authors": [
         {
